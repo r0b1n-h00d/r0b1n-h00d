@@ -5,7 +5,7 @@
 
 ## ✨ About Me
 
-- 🔭 I’m currently working on an **Uber Clone**
+- 🔭 I’m currently working on a **WhatsApp Clone**
 
 - 🌱 I’m currently learning **Solidity, Web3 & Blockchain.**
 
