@@ -5,8 +5,6 @@
 
 ## ✨ About Me
 
-- 🔭 I’m currently working on a **WhatsApp Clone**
-
 - 🌱 I’m currently learning **Solidity, Web3 & Blockchain.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
