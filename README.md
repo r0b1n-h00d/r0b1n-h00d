@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **davidkiforo@gmail.com**
 
-- ⚡ Fun fact **I play football and visit the gym quite often.**
+- ⚡ Fun fact **I love football and the color blue.**
 
 ## 🚀 Languages and Tools:
 
